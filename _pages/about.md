@@ -10,21 +10,61 @@ redirect_from:
 I am currently a master's student at the Medical Imaging Laboratory of Southeast University, under the guidance of Professor [Yang Chen](https://chenyang10.github.io/chengyang/). Prior to this, I completed my undergraduate studies at North University of China.I also worked for a year as a Research Assistant at the [State Key Laboratory of Robotics and Intelligent Systems](https://www.sia.cn/vision/), Shenyang Institute of Automation, Chinese Academy of Sciences, under the supervision of Professor [Zhi Han](https://www.sia.cn/vision/kytd/yjry/202307/t20230726_6834579.html).
 
 Research Interests
-
-======
+------
 My current research lies in Medical Image Processing, Photoacoustic Robotics, and Embodied AI:
 - **Medical Image Processing**: Developing algorithms for medical scan analysis and diagnosis
 - **Photoacoustic Robotics**: Integrating photoacoustic imaging with robotics for real-time medical monitoring
 - **Embodied AI**: Vision and Language Navigation、Vision and Language Action
 
 News
-
-======
+------
 -
 -
 -
 
-{% include_relative _includes/publications.md %}
+Publications
+------
+1. **[Visual-Language Scene-Relation-Aware Zero-Shot Captioner](https://ieeexplore.ieee.org/document/11045221)**
+   - **Authors**: Qianyue Bao, Fang Liu, Licheng Jiao, Yang Liu, Shuo Li, Lingling Li, Xu Liu, Puhua Chen
+   - **Periodical**: *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025.*
+   <!-- - ![TPAMI](assets/img/TPAMI25_SRACap.jpg) -->
+
+2. **[ERFC: Energy-Aware Reinforcement Feedback Calibration for Zero-shot Captioning](https://ieeexplore.ieee.org/document/11133665)**
+   - **Authors**: Qianyue Bao, Fang Liu, Licheng Jiao, Yang Liu, Shuo Li, Lingling Li, Xu Liu, Puhua Chen, Wenping Ma
+   - **Periodical**: *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2025.*
+   <!-- - ![TCSVT](assets/img/TCSVT25_ERFC.jpg) -->
+
+3. **[Chain-of-Situation Aware Progressive Inference Learning](https://ieeexplore.ieee.org/abstract/document/11031239)**
+   - **Authors**: Yang Liu, Fang Liu, Licheng Jiao, Qianyue Bao, Shuo Li, Lingling Li, Xu Liu, Puhua Chen, Wenping Ma
+   - **Periodical**: *IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2025.*
+   <!-- - ![TNNLS](assets/img/TNNLS25_CoS.jpg) -->
+
+4. **[Anomaly-Led Prompting Learning Caption Generating Model and Benchmark](#)**
+   - **Authors**: Qianyue Bao, Fang Liu, Licheng Jiao, Yang Liu, Shuo Li, Lingling Li, Xu Liu, Xinyi Wang, Baoliang Chen
+   - **Periodical**: *IEEE Transactions on Multimedia (TMM), 2025.*
+   <!-- - ![TMM](assets/img/TMM25_CVAC.jpg) -->
+
+5. **[Knowledge-Driven Compositional Action Recognition](https://www.sciencedirect.com/science/article/pii/S0031320325001128)**
+   - **Authors**: Yang Liu, Fang Liu, Licheng Jiao, Qianyue Bao, Shuo Li, Lingling Li, Xu Liu
+   - **Periodical**: *Pattern Recognition (PR), 2025.*
+   <!-- - ![PR](assets/img/KDCMM.jpg) -->
+
+6. **[Multi-grained Gradual Inference Model for Multimedia Event Extraction](https://ieeexplore.ieee.org/document/10533232)**
+   - **Authors**: Yang Liu, Fang Liu, Licheng Jiao, Qianyue Bao, Long Sun, Shuo Li, Lingling Li, Xu Liu
+   - **Periodical**: *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024.*
+   <!-- - ![TCSVT](assets/img/MEE.png) -->
+
+7. **[A Knowledge-based Hierarchical Causal Inference Network for Video Action Recognition](https://ieeexplore.ieee.org/abstract/document/10496835/)**
+   - **Authors**: Yang Liu, Fang Liu, Licheng Jiao, Qianyue Bao, Lingling Li, Yuwei Guo, Puhua Chen
+   - **Periodical**: *IEEE Transactions on Multimedia (TMM), 2024.*
+   <!-- - ![TMM](assets/img/KHCIN.png) -->
+
+8. **[Hierarchical Scene Normality-Binding Modeling for Anomaly Detection in Surveillance Videos](https://dl.acm.org/doi/10.1145/3503161.3548199)**
+   - **Authors**: Qianyue Bao, Fang Liu, Yang Liu, Licheng Jiao, Xu Liu, Lingling Li
+   - **Periodical**: *ACM International Conference on Multimedia (ACM MM), 2022.*
+   <!-- - ![ACM MM](assets/img/HSNBM.png) -->
+   - [PDF](https://dl.acm.org/doi/10.1145/3503161.3548199)
+
 
 
 <!-- Getting started
